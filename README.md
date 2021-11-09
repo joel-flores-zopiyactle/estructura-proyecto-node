@@ -2,11 +2,11 @@
 ## Carpetas principales
 
 -app
--- Controller
--- Helpers
--- Middleware
--- Models
--- Routes
+Controller
+Helpers
+Middleware
+Models
+Routes
 
 - config
 
