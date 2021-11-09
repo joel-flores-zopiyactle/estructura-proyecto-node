@@ -9,3 +9,11 @@
 .Routes
 
 - config
+
+
+## Intalación de paquetes
+
+```
+npm i dotenv cors express mongoose -S
+npm install nodemon -D
+```
